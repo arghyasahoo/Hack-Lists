@@ -1,3 +1,227 @@
-BeachHacks :: Major League Hacking :: 2021-04-17 :: 2021-04-18 :: Ongoing :: https://www.beachhacks.com/
-FinHack :: Major League Hacking :: 2021-04-16 :: 2021-04-18 :: Ongoing :: https://organize.mlh.io/participants/events/6824-finhack
-HackDartmouth :: Major League Hacking :: 2021-04-16 :: 2021-04-18 :: Ongoing :: https://hackdartmouth.org/
+Hackcation :: Major League Hacking :: 2020-07-03 :: 2020-07-05 ::  :: https://hackp.ac/Hackcation
+New hack, who this? :: Major League Hacking :: 2020-07-10 :: 2020-07-12 ::  :: https://hackp.ac/NewHackWhoThis
+VandyHacks Summer Edition  :: Major League Hacking :: 2020-07-10 :: 2020-07-12 ::  :: https://summer.vandyhacks.org/
+HackItShipIt :: Major League Hacking :: 2020-07-17 :: 2020-07-19 ::  :: https://hackp.ac/HackItShipIt
+SigmaHacks 2.0 :: Major League Hacking :: 2020-07-24 :: 2020-07-26 ::  :: https://sigmahacks.org/
+Hacky Birthday MLH! :: Major League Hacking :: 2020-07-25 :: 2020-07-26 ::  :: https://hackp.ac/HackyBirthdayMLH
+HobbyHacks :: Major League Hacking :: 2020-07-25 :: 2020-07-26 ::  :: https://hobbyhacks.techtogether.io/
+To the Moon and Hack :: Major League Hacking :: 2020-07-31 :: 2020-08-02 ::  :: https://hackp.ac/ToTheMoonAndHack
+HAC HackAgainstCovid :: Major League Hacking :: 2020-08-07 :: 2020-08-09 ::  :: https://hac.codezoned.com/
+Roll for Hacking :: Major League Hacking :: 2020-08-07 :: 2020-08-09 ::  :: https://hackp.ac/RollForHacking
+Garuda Hacks :: Major League Hacking :: 2020-08-14 :: 2020-08-16 ::  :: https://garudahacks.com/
+YeeHaw Hacks :: Major League Hacking :: 2020-08-14 :: 2020-08-16 ::  :: https://hackp.ac/YeeHawHacks
+Hack'20 :: Major League Hacking :: 2020-08-15 :: 2020-08-16 ::  :: https://hack20.dubhacks.co/
+Hack The 6ix :: Major League Hacking :: 2020-08-21 :: 2020-08-23 ::  :: https://hackthe6ix.com/
+MHacks :: Major League Hacking :: 2020-08-21 :: 2020-08-23 ::  :: https://mhacks.org/
+HackMTY :: Major League Hacking :: 2020-08-29 :: 2020-08-30 ::  :: https://hackmty.com/
+Suns Out Hacks Out :: Major League Hacking :: 2020-08-29 :: 2020-08-30 ::  :: https://hackp.ac/SunsOutHacksOut
+First Day Back Hacks :: Major League Hacking :: 2020-09-04 :: 2020-09-06 ::  :: https://hackp.ac/FirstDayBackHacks
+MedHacks :: Major League Hacking :: 2020-09-04 :: 2020-09-06 ::  :: https://medhacks.io/2020/
+Delhi Hacks :: Major League Hacking :: 2020-09-05 :: 2020-09-06 ::  :: https://delhihacks.xyz/
+Hack Kosice :: Major League Hacking :: 2020-09-05 :: 2020-09-06 ::  :: https://hackkosice.com/
+Bon Hackétit :: Major League Hacking :: 2020-09-11 :: 2020-09-13 ::  :: https://hackp.ac/BonHacketit
+HopHacks :: Major League Hacking :: 2020-09-11 :: 2020-09-13 ::  :: https://hophacks.com
+Aye Aye Hackers :: Major League Hacking :: 2020-09-18 :: 2020-09-20 ::  :: https://hackp.ac/AyeAyeHackers
+GrizzHacks :: Major League Hacking :: 2020-09-18 :: 2020-09-20 ::  :: https://grizzhacks.com/
+HackRice :: Major League Hacking :: 2020-09-18 :: 2020-09-20 ::  :: https://hack.rice.edu
+Silly Hacks :: Major League Hacking :: 2020-09-18 :: 2020-09-20 ::  :: https://sillyhacks.online/
+BorderHacks :: Major League Hacking :: 2020-09-25 :: 2020-09-27 ::  :: http://www.borderhacks.com/
+SBUHacks :: Major League Hacking :: 2020-09-25 :: 2020-09-26 ::  :: https://sbuhacks.org/
+ShellHacks :: Major League Hacking :: 2020-09-25 :: 2020-09-27 ::  :: https://shellhacks.net/
+New Friends, New Hacks :: Major League Hacking :: 2020-09-26 :: 2020-09-27 ::  :: https://hackp.ac/NewFriendsNewHacks
+Ramhacks :: Major League Hacking :: 2020-09-26 :: 2020-09-27 ::  :: https://ramhacks.vcu.edu/
+IvyHacks :: Major League Hacking :: 2020-10-01 :: 2020-10-04 ::  :: https://IvyHacks.com
+HeroHacks :: Major League Hacking :: 2020-10-02 :: 2020-10-04 ::  :: https://organize.mlh.io/participants/events/4618-herohacks
+MiamiHacks :: Major League Hacking :: 2020-10-02 :: 2020-10-04 ::  :: https://www.miamihacks.com
+VandyHacks :: Major League Hacking :: 2020-10-02 :: 2020-10-04 ::  :: https://vandyhacks.org/
+MakeUC :: Major League Hacking :: 2020-10-03 :: 2020-10-04 ::  :: https://makeuc.io
+[email protected] :: Major League Hacking :: 2020-10-09 :: 2020-10-12 ::  :: https://hackathome.org/#
+IdeaHack! 2020 :: Major League Hacking :: 2020-10-09 :: 2020-10-11 ::  :: https://www.businessmeetstech.de/ideahack
+Knight Hacks :: Major League Hacking :: 2020-10-09 :: 2020-10-11 ::  :: https://www.knighthacks.org
+MakeSPP :: Major League Hacking :: 2020-10-09 :: 2020-10-11 ::  :: https://www.makespp.com
+sunhacks :: Major League Hacking :: 2020-10-09 :: 2020-10-11 ::  :: https://sunhacks.io/
+GirlHacks :: Major League Hacking :: 2020-10-10 :: 2020-10-11 ::  :: https://girlhacks.github.io/
+HacktheMountains :: Major League Hacking :: 2020-10-10 :: 2020-10-11 ::  :: https://www.hackthemountain.tech/
+Lights, Camera, Hacktion :: Major League Hacking :: 2020-10-10 :: 2020-10-11 ::  :: https://organize.mlh.io/participants/events/4619-lights-camera-hacktion
+WEHack :: Major League Hacking :: 2020-10-10 :: 2020-10-11 ::  :: https://wehackutd.com
+HackGT :: Major League Hacking :: 2020-10-16 :: 2020-10-18 ::  :: https://2020.hack.gt/
+HackNC :: Major League Hacking :: 2020-10-16 :: 2020-10-18 ::  :: https://www.hacknc.com/
+Hackrithmitic :: Major League Hacking :: 2020-10-16 :: 2020-10-18 ::  :: https://organize.mlh.io/participants/events/4620-hackrithmitic
+DubHacks :: Major League Hacking :: 2020-10-17 :: 2020-10-18 ::  :: https://dubhacks.co/
+Girls Hoo Hack :: Major League Hacking :: 2020-10-17 :: 2020-10-18 ::  :: https://www.gwcuva.com/
+HackTheU :: Major League Hacking :: 2020-10-17 :: 2020-10-18 ::  :: https://hacktheu.org/
+OwlHacks :: Major League Hacking :: 2020-10-17 :: 2020-10-18 ::  :: https://owlhacks.com/
+TAMU Datathon :: Major League Hacking :: 2020-10-17 :: 2020-10-18 ::  :: https://tamudatathon.com
+Local Hack Day: Learn :: Major League Hacking :: 2020-10-18 :: 2020-10-24 ::  :: https://localhackday.mlh.io/
+HackTheMidlands :: Major League Hacking :: 2020-10-22 :: 2020-10-25 ::  :: https://hackthemidlands.com/
+Columbia DivHacks :: Major League Hacking :: 2020-10-23 :: 2020-10-25 ::  :: https://columbiadivhacks.com/
+DandyHacks :: Major League Hacking :: 2020-10-23 :: 2020-10-25 ::  :: https://dandyhacks.net/
+DemonHacks :: Major League Hacking :: 2020-10-23 :: 2020-10-25 ::  :: https://demonhacks.com/
+HackTX :: Major League Hacking :: 2020-10-23 :: 2020-10-25 ::  :: https://hacktx.com/
+The Pitt Challenge :: Major League Hacking :: 2020-10-23 :: 2020-10-25 ::  :: http://pittchallenge.com/
+Kent Hack Enough :: Major League Hacking :: 2020-10-24 :: 2020-10-25 ::  :: https://khe.io/
+Technica :: Major League Hacking :: 2020-10-24 :: 2020-10-25 ::  :: https://gotechnica.org/
+UB Hacking :: Major League Hacking :: 2020-10-24 :: 2020-10-25 ::  :: https://www.ubhacking.com/
+Hack or Treat? :: Major League Hacking :: 2020-10-30 :: 2020-11-01 ::  :: https://organize.mlh.io/participants/events/4621-hack-or-treat
+AgriTech Hackathon :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://agritechhackathon.ca/
+Hack K-State :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://hackkstate.tech/
+HackPSU :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://hackpsu.org/
+Hacks and Craft :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://organize.mlh.io/participants/events/5213-hacks-and-crafts
+TechTogether Boston :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://boston.techtogether.io/
+TigerHacks :: Major League Hacking :: 2020-11-06 :: 2020-11-08 ::  :: https://tigerhacks.com/
+hackCBS 3.0 :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hackcbs.tech
+HackHolyoke :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: http://hackholyoke.com/
+HackNJIT :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hacknjit.org
+hackPHS :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hackphs.tech
+HackRPI :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hackrpi.com/
+HackRU :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hackru.org/#home
+hackSheffield :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://hacksheffield.com
+NewHacks :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://ieee.utoronto.ca/newhacks/
+WHACK :: Major League Hacking :: 2020-11-07 :: 2020-11-08 ::  :: https://wellesleyhacks.org
+Code.Jam(2020) :: Major League Hacking :: 2020-11-13 :: 2020-11-13 ::  :: https://codejam.mcgilleus.ca
+Creatica :: Major League Hacking :: 2020-11-13 :: 2020-11-15 ::  :: https://www.creatica.io/
+Do-Re-Mi Hacks :: Major League Hacking :: 2020-11-13 :: 2020-11-15 ::  :: https://organize.mlh.io/participants/events/5725-do-re-mi-hacks
+HackUMBC :: Major League Hacking :: 2020-11-13 :: 2020-11-15 ::  :: https://www.hackumbc.org/
+BostonHacks :: Major League Hacking :: 2020-11-14 :: 2020-11-15 ::  :: https://bostonhacks.io
+Def Hacks Global 2.0 :: Major League Hacking :: 2020-11-14 :: 2020-11-15 ::  :: https://defhacks.co/hack
+Oxford Hack 2020 :: Major League Hacking :: 2020-11-14 :: 2020-11-15 ::  :: https://oxfordhack.co.uk/
+Give Back Hacks :: Major League Hacking :: 2020-11-20 :: 2020-11-22 ::  :: https://organize.mlh.io/participants/events/5726-give-back-hacks
+Hack Western :: Major League Hacking :: 2020-11-20 :: 2020-11-22 ::  :: https://hackwestern.com
+UniHack :: Major League Hacking :: 2020-11-20 :: 2020-11-22 ::  :: https://unihack.eu
+WWPHacks :: Major League Hacking :: 2020-11-21 :: 2020-11-22 ::  :: https://wwphacks.com
+Who Wants To Be A Hackionaire? :: Major League Hacking :: 2020-11-27 :: 2020-11-29 ::  :: https://organize.mlh.io/participants/events/6033-who-wants-to-be-a-hackionaire
+SharkHacks :: Major League Hacking :: 2020-12-04 :: 2020-12-06 ::  :: https://organize.mlh.io/participants/events/6046-sharkhacks
+TechTogether New York :: Major League Hacking :: 2020-12-04 :: 2020-12-06 ::  :: https://newyork.techtogether.io/
+Code for Good :: Major League Hacking :: 2020-12-05 :: 2020-12-06 ::  :: https://hackduke.org/
+Who Done It Hacks? :: Major League Hacking :: 2020-12-11 :: 2020-12-13 ::  :: https://organize.mlh.io/participants/events/6047-who-done-it-hacks
+Hack Off v3.0 :: Major League Hacking :: 2020-12-12 :: 2020-12-13 ::  :: https://www.hackoff.tech/
+HackUMass :: Major League Hacking :: 2020-12-18 :: 2020-12-20 ::  :: https://hackumass.com/
+Winter Hacklympics :: Major League Hacking :: 2020-12-18 :: 2020-12-20 ::  :: https://organize.mlh.io/participants/events/6048-winter-hacklympics
+Execute :: Major League Hacking :: 2020-12-19 :: 2020-12-20 ::  :: https://executehack.in/
+Holiday Hacks :: Major League Hacking :: 2020-12-25 :: 2020-12-27 ::  :: https://organize.mlh.io/participants/events/6051-holiday-hacks
+New Year New Hack :: Major League Hacking :: 2021-01-01 :: 2021-01-03 ::  :: https://organize.mlh.io/participants/events/6052-new-year-new-hack
+SheHacks :: Major League Hacking :: 2021-01-08 :: 2021-01-10 ::  :: https://shehacks.ca/
+Snakes and Hackers :: Major League Hacking :: 2021-01-08 :: 2021-01-10 ::  :: https://organize.mlh.io/participants/events/6267-snakes-and-hackers
+nwHacks :: Major League Hacking :: 2021-01-09 :: 2021-01-10 ::  :: https://www.nwhacks.io/
+Local Hack Day: Build :: Major League Hacking :: 2021-01-10 :: 2021-01-18 ::  :: https://localhackday.mlh.io/build
+CruzHacks :: Major League Hacking :: 2021-01-15 :: 2021-01-17 ::  :: https://www.cruzhacks.com/
+Elle Hacks :: Major League Hacking :: 2021-01-15 :: 2021-01-17 ::  :: https://ellehacks.com/
+Hack the North  :: Major League Hacking :: 2021-01-15 :: 2021-01-17 ::  :: https://hackthenorth.com/
+Hack the Northeast Beyond :: Major League Hacking :: 2021-01-15 :: 2021-01-17 ::  :: https://hackthenortheast.com
+SB Hacks :: Major League Hacking :: 2021-01-15 :: 2021-01-17 ::  :: https://sbhacks.com/
+HackDavis :: Major League Hacking :: 2021-01-16 :: 2021-01-18 ::  :: https://hackdavis.io/
+HackED 2021 :: Major League Hacking :: 2021-01-16 :: 2021-01-17 ::  :: https://hacked.compeclub.com/
+Rose Hack :: Major League Hacking :: 2021-01-16 :: 2021-01-17 ::  :: https://rosehack.com/
+BoilerMake :: Major League Hacking :: 2021-01-22 :: 2021-01-24 ::  :: https://boilermake.org/
+Hack Your Portfolio :: Major League Hacking :: 2021-01-22 :: 2021-01-24 ::  :: https://organize.mlh.io/participants/events/6291-hack-your-portfolio
+QHacks :: Major League Hacking :: 2021-01-22 :: 2021-01-24 ::  :: https://qhacks.io/
+TechTogether Seattle :: Major League Hacking :: 2021-01-22 :: 2021-01-24 ::  :: https://seattle.techtogether.io/
+CUNY Hackathon :: Major League Hacking :: 2021-01-23 :: 2021-01-24 ::  :: https://cunyhackathon21.web.app/
+[email protected] :: Major League Hacking :: 2021-01-23 :: 2021-01-24 ::  :: https://2021.hackatbrown.org/
+Hex Cambridge 2021 :: Major League Hacking :: 2021-01-23 :: 2021-01-24 ::  :: https://hackcambridge.com/
+QWER Hacks :: Major League Hacking :: 2021-01-23 :: 2021-01-24 ::  :: https://www.qwerhacks.com/
+cuHacking :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: http://2021.cuhacking.com/
+Fashion Tech Hackathon :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: https://www.kent.edu/fashion/fashiontech-hackathon
+Hack APAC :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: https://organize.mlh.io/participants/events/6396-hack-apac
+Hoya Hacks :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: http://hoyahacks.georgetown.domains/
+McHacks :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: https://mchacks.ca/
+SwampHacks :: Major League Hacking :: 2021-01-29 :: 2021-01-31 ::  :: https://2021.swamphacks.com/
+CUhackit :: Major League Hacking :: 2021-01-30 :: 2021-01-31 ::  :: https://cuhack.it/
+HackViolet :: Major League Hacking :: 2021-01-30 :: 2021-01-31 ::  :: https://www.hackviolet.com/
+TAMUhack :: Major League Hacking :: 2021-01-30 :: 2021-01-31 ::  :: https://tamuhack.com/th
+Black Wings Hacks :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://rewritingthecode.org/black-wings-hacks/
+Hackatown :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://hackatown.io/#/en
+Hacklytics  :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://hacklytics.io/
+Hackville 2021 :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://hackville.io
+Impractical Hackers :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://organize.mlh.io/participants/events/6397-impractical-hackers
+MacHacks :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://machacks.ca
+UGAHacks :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://6.ugahacks.com/
+uOttaHack :: Major League Hacking :: 2021-02-05 :: 2021-02-07 ::  :: https://2021.uottahack.ca/
+Hack BU 2021 :: Major League Hacking :: 2021-02-06 :: 2021-02-07 ::  :: https://2021s.hackbu.org/
+Hacklahoma :: Major League Hacking :: 2021-02-06 :: 2021-02-07 ::  :: https://2021.hacklahoma.org
+NSBE Hacks U of T :: Major League Hacking :: 2021-02-06 :: 2021-02-07 ::  :: https://www.nsbehacksuoft.ca/
+RoyalHackaway :: Major League Hacking :: 2021-02-06 :: 2021-02-07 ::  :: https://royalhackaway.com/
+Hackthrob :: Major League Hacking :: 2021-02-12 :: 2021-02-14 ::  :: https://organize.mlh.io/participants/events/6413-hackthrob
+Calgary Hacks :: Major League Hacking :: 2021-02-13 :: 2021-02-14 ::  :: http://calgaryhacks.ca/
+GunnHacks 7.0 :: Major League Hacking :: 2021-02-13 :: 2021-02-14 ::  :: https://www.gunnhacks.com/
+Highfield Hack :: Major League Hacking :: 2021-02-13 :: 2021-02-14 ::  :: https://highfieldhack.co.uk/
+MakeHarvard :: Major League Hacking :: 2021-02-13 :: 2021-02-14 ::  :: https://makeharvard.io
+yuHacks :: Major League Hacking :: 2021-02-13 :: 2021-02-14 ::  :: https://yuhacks.info
+Hack And Wellness :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://organize.mlh.io/participants/events/6456-hack-and-wellness
+HackSC :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://hacksc.com
+KU HackFest 2021 :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://www.kuhackfest.com
+Pearl Hacks :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://pearlhacks.com
+SacHacks :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://sachacks.io/
+SD Hacks :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: http://www.sdhacks.io/
+UofTHacks :: Major League Hacking :: 2021-02-19 :: 2021-02-21 ::  :: https://uofthacks.com
+AstonHack :: Major League Hacking :: 2021-02-20 :: 2021-02-21 ::  :: https://astonhack.co.uk/
+BrickHack 7 :: Major League Hacking :: 2021-02-20 :: 2021-02-21 ::  :: https://brickhack.io/
+RevolutionUC :: Major League Hacking :: 2021-02-20 :: 2021-02-21 ::  :: https://revolutionuc.com/
+StormHacks :: Major League Hacking :: 2021-02-20 :: 2021-02-21 ::  :: https://stormhacks.com/
+[email protected] 2021 :: Major League Hacking :: 2021-02-26 :: 2021-02-28 ::  :: https://www.cewit.org/programs/events/hack.php
+Hackers of the Galaxy :: Major League Hacking :: 2021-02-26 :: 2021-02-28 ::  :: https://organize.mlh.io/participants/events/6487-hackers-of-the-galaxy
+CuseHacks :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://innovateorange.github.io/cusehacks/
+HackLBS :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://hacklbs.org/
+HackSurrey Virtual :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://hacksurrey.github.io/virtual/
+HackTCNJ :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://www.hacktcnj.com
+HackUTD :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://2021.hackutd.co
+HackVerse :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://hackverse.nitk.ac.in/
+MariHacks :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://marihacks.com
+VTHacks VIII :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://vthacks.com
+WiCHacks :: Major League Hacking :: 2021-02-27 :: 2021-02-28 ::  :: https://www.wichacks.io/
+CorgiHacks :: Major League Hacking :: 2021-03-05 :: 2021-03-07 ::  :: https://organize.mlh.io/participants/events/6531-corgihacks
+DeltaHacks :: Major League Hacking :: 2021-03-05 :: 2021-03-07 ::  :: https://www.deltahacks.com
+SF Hacks :: Major League Hacking :: 2021-03-05 :: 2021-03-07 ::  :: https://sfhacks.io/
+TartanHacks :: Major League Hacking :: 2021-03-05 :: 2021-03-07 ::  :: https://tartanhacks.com
+AthenaHacks :: Major League Hacking :: 2021-03-06 :: 2021-03-07 ::  :: https://athenahacks.com
+cmd-f :: Major League Hacking :: 2021-03-06 :: 2021-03-07 ::  :: https://cmd-f.nwplus.io/
+Hack The Burgh 7 :: Major League Hacking :: 2021-03-06 :: 2021-03-07 ::  :: https://2021.hacktheburgh.com/
+WiCS Hacks :: Major League Hacking :: 2021-03-06 :: 2021-03-07 ::  :: https://www.cs.utexas.edu/~wics/hackathon/
+HackMerced :: Major League Hacking :: 2021-03-12 :: 2021-03-14 ::  :: https://hackmerced.com/
+SheHacks :: Major League Hacking :: 2021-03-12 :: 2021-03-14 ::  :: https://shehacks.tech/
+Tidy The Hack Up :: Major League Hacking :: 2021-03-12 :: 2021-03-14 ::  :: https://organize.mlh.io/participants/events/6532-tidy-the-hack-up
+Hackabull :: Major League Hacking :: 2021-03-13 :: 2021-03-14 ::  :: https://hackabull.io/
+Menlohacks :: Major League Hacking :: 2021-03-13 :: 2021-03-14 ::  :: https://2021.menlohacks.com/
+HackPSU :: Major League Hacking :: 2021-03-19 :: 2021-03-21 ::  :: https://hackpsu.org
+The Second H-Act :: Major League Hacking :: 2021-03-19 :: 2021-03-21 ::  :: https://organize.mlh.io/participants/events/6597-the-second-h-act
+HueHacks :: Major League Hacking :: 2021-03-26 :: 2021-03-28 ::  :: https://organize.mlh.io/participants/events/6600-huehacks
+RowdyHacks :: Major League Hacking :: 2021-03-26 :: 2021-03-28 ::  :: https://www.rowdyhacks.io/
+WinHacks :: Major League Hacking :: 2021-03-26 :: 2021-03-28 ::  :: https://winhacks.ca/
+HooHacks :: Major League Hacking :: 2021-03-27 :: 2021-03-28 ::  :: https://www.hoohacks.io/
+Local Hack Day: Share :: Major League Hacking :: 2021-03-28 :: 2021-04-05 ::  :: https://organize.mlh.io/participants/events/6430-local-hack-day-share
+SurpriseHacks :: Major League Hacking :: 2021-04-02 :: 2021-04-04 ::  :: https://organize.mlh.io/participants/events/6803-surprisehacks
+Uncommon Hacks :: Major League Hacking :: 2021-04-02 :: 2021-04-04 ::  :: https://hacks2021.uncommonhacks.com/
+Bitcamp :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://bit.camp/
+Citrus Hack :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://citrushack.com/
+Hack36 :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://www.hack36.com/
+Hack 36 :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://www.hack36.com/
+Hack From The Past :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://organize.mlh.io/participants/events/6773-hack-from-the-past
+HackKU :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://hackku.org/
+PickHacks :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://pickhacks.io/
+Women/Hacks :: Major League Hacking :: 2021-04-09 :: 2021-04-11 ::  :: https://www.womxnhacks.com/
+AuburnHacks :: Major League Hacking :: 2021-04-10 :: 2021-04-11 ::  :: https://auburnhacks.org
+Hack TJ 8.0 :: Major League Hacking :: 2021-04-10 :: 2021-04-11 ::  :: https://hacktj.org/
+Hack You :: Major League Hacking :: 2021-04-10 :: 2021-04-11 ::  :: https://www.mergeintern.com/hackyou
+FinHack :: Major League Hacking :: 2021-04-16 :: 2021-04-18 ::  :: https://organize.mlh.io/participants/events/6824-finhack
+HackDartmouth :: Major League Hacking :: 2021-04-16 :: 2021-04-18 ::  :: https://hackdartmouth.org/
+BeachHacks :: Major League Hacking :: 2021-04-17 :: 2021-04-18 ::  :: https://www.beachhacks.com/
+Hack-ccessible :: Major League Hacking :: 2021-04-23 :: 2021-04-25 ::  :: https://organize.mlh.io/participants/events/6771-hack-ccessible
+Los Altos Hacks :: Major League Hacking :: 2021-04-24 :: 2021-04-25 ::  :: https://www.losaltoshacks.com/
+VenusHacks :: Major League Hacking :: 2021-04-24 :: 2021-04-25 ::  :: https://www.venushacks.com/
+Equinox :: Major League Hacking :: 2021-04-30 :: 2021-05-02 ::  :: https://equinoxhack.in/
+Hack At Home II  :: Major League Hacking :: 2021-04-30 :: 2021-05-02 ::  :: https://organize.mlh.io/participants/events/6794-hack-at-home-ii
+RU Hacks :: Major League Hacking :: 2021-04-30 :: 2021-05-02 ::  :: https://ruhacks.com/
+ HackDTU'21 :: Major League Hacking :: 2021-05-01 :: 2021-05-02 ::  :: http://synergy.iosd.tech
+AbracadabraHacks :: Major League Hacking :: 2021-05-07 :: 2021-05-09 ::  :: https://organize.mlh.io/participants/events/6795-houdinihacks
+TOHacks 2021 :: Major League Hacking :: 2021-05-08 :: 2021-05-09 ::  :: https://www.tohacks.ca/
+Neighborhood Hacks :: Major League Hacking :: 2021-05-14 :: 2021-05-16 ::  :: https://organize.mlh.io/participants/events/6796-neighborhood-hacks
+Mental Health Hacks :: Major League Hacking :: 2021-05-21 :: 2021-05-23 ::  :: https://organize.mlh.io/participants/events/6797-mental-health-hacks
+Hack-cade :: Major League Hacking :: 2021-05-28 :: 2021-05-30 ::  :: https://organize.mlh.io/participants/events/6798-hack-cade
+HackOn 2.0 :: Major League Hacking :: 2021-05-28 :: 2021-05-30 ::  :: https://hackon.tech/
+Hack Girl Summer 2.0 :: Major League Hacking :: 2021-06-04 :: 2021-06-06 ::  :: https://organize.mlh.io/participants/events/7019-hack-girl-summer-2-0
+Surfs Up Hacks :: Major League Hacking :: 2021-06-11 :: 2021-06-13 ::  :: https://organize.mlh.io/participants/events/6800-surfs-up-hacks
+Garden Hacks :: Major League Hacking :: 2021-06-18 :: 2021-06-20 ::  :: https://organize.mlh.io/participants/events/6801-garden-hacks
+PrideHacks :: Major League Hacking :: 2021-06-25 :: 2021-06-27 ::  :: https://organize.mlh.io/participants/events/6802-pride-hacks
+SigmaHacks 3 :: Major League Hacking :: 2021-06-25 :: 2021-06-27 ::  :: https://sigmahacks.org
+Hack the Mountains 2.0 :: Major League Hacking :: 2021-06-26 :: 2021-06-27 ::  :: https://hackthemountain.tech/
+R. U. Hacking?  :: Major League Hacking :: 2021-06-26 :: 2021-06-27 ::  :: https://ruhacking.uk/
