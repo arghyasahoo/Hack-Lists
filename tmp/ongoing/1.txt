@@ -1,0 +1,18 @@
+MakeUC :: MakeUC :: 2021-10-09 :: 2021-10-10 :: Ongoing :: https://makeuc.io
+TeenTechSF Civic Hackathon :: TeenTechSF Civic Hackathon :: 2021-10-09 :: 2021-10-10 :: Ongoing :: https://www.eventbrite.com/e/2021-teentechsf-civic-hackathon-registration-175029416697
+FuturistFest 2021 :: FuturistFest 2021 :: 2021-10-11 :: - :: Ongoing :: https://womeninstemth.wixsite.com/futuristfest
+TechTogether New York :: TechTogether New York :: 2021-10-15 :: 2021-10-17 :: Ongoing :: https://techtogether.io/newyork
+Treasure Hacks :: Treasure Hacks :: 2021-10-15 :: 2021-10-18 :: Ongoing :: http://treasurehacks.dev
+Vivid Hacks :: Vivid Hacks :: 2021-10-15 :: 2021-10-17 :: Ongoing :: https://www.vividhacks.tech
+API Hacks 2.0 :: API Hacks 2.0 :: 2021-10-15 :: 2021-10-16 :: Ongoing :: https://apihacks.co/
+HackGwinnett :: HackGwinnett :: 2021-10-16 :: - :: Ongoing :: https://hackgwinnett.github.io/
+Hack This Fall 2.0 :: Hack This Fall 2.0 :: 2021-10-22 :: 2021-10-24 :: Ongoing :: https://hackthisfall.tech/
+Hack The World :: Hack The World :: 2021-10-22 :: 2021-10-24 :: Ongoing :: http://www.hacktheworld.online
+Presto Hacks :: Presto Hacks :: 2021-10-22 :: 2021-10-24 :: Ongoing :: https://prestohacks.tech
+HackmaFest :: HackmaFest :: 2021-10-24 :: 2021-10-30 :: Ongoing :: https://hackmafest.tech/
+hackCBS 4.0 :: hackCBS 4.0 :: 2021-10-29 :: 2021-10-31 :: Ongoing :: https://hackcbs.tech/
+WebJam NYC :: WebJam NYC :: 2021-11-05 :: 2021-11-06 :: Ongoing :: https://webjam.nyc/
+Midnight Hacks :: Midnight Hacks :: 2021-11-06 :: 2021-11-07 :: Ongoing :: https://midnighthacks.tech/
+LEC Hacks :: LEC Hacks :: 2021-11-19 :: 2021-11-21 :: Ongoing :: http://lec-hacks.live
+Limbo Hacks :: Limbo Hacks :: 2021-11-20 :: 2021-11-21 :: Ongoing :: https://limbohacks.tech
+Codetivate :: Codetivate :: 2021-12-17 :: 2021-12-19 :: Ongoing :: https://codetivate.the-dynamics.org
