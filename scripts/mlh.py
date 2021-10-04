@@ -26,7 +26,7 @@ def collectData():
     for i in range(number_of_events):
 
         if (today < event_startdate[i]['content']):
-            with open("./tmp/upcoming/mlh.txt", 'w') as hl:
+            with open("../tmp/upcoming/mlh.txt", 'a') as hl:
                 status = "Upcoming"
                 data = event_names[i].text + ' :: ' + 'Major League Hacking' + ' :: ' + event_startdate[i]['content'] + \
                     ' :: ' + event_enddate[i]['content'] + \
@@ -34,7 +34,7 @@ def collectData():
                 hl.write(data + '\n')
 
         elif (today >= event_startdate[i]['content'] and today <= event_enddate[i]['content']):
-            with open("./tmp/ongoing/mlh.txt", 'w') as hl:
+            with open("../tmp/ongoing/mlh.txt", 'a') as hl:
                 status = "Ongoing"
                 data = event_names[i].text + ' :: ' + 'Major League Hacking' + ' :: ' + event_startdate[i]['content'] + \
                     ' :: ' + event_enddate[i]['content'] + \
@@ -42,7 +42,7 @@ def collectData():
                 hl.write(data + '\n')
 
         else:
-            with open("./tmp/past/mlh.txt", 'w') as hl:
+            with open("../tmp/past/mlh.txt", 'a') as hl:
                 status = "Past"
                 data = event_names[i].text + ' :: ' + 'Major League Hacking' + ' :: ' + event_startdate[i]['content'] + \
                     ' :: ' + event_enddate[i]['content'] + \
