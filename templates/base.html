@@ -5,19 +5,77 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<title>Hack Lists</title>
-	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+	<!-- link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}" -->
 	<link rel="stylesheet" type="image/png" href="{{ url_for('static', filename='favicon/hackathon_logo_favicon.png') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans+Lato:wght@400&family=PT+Sans&display=swap');
+		body {
+			color: white;
+			background-color: #222 !important;
+			font-family: 'Josefin Sans', sans-serif;
+		}
+		h1 {
+			font-family: 'PT Sans', sans-serif;
+		}
+		table {
+			font-family: 'Lato', sans-serif;
+			text-align: center;
+			border: 2px solid #00ad5f;
+			border-collapse: collapse;
+			background-color: #222;
+		}
+		.table td, .table th {
+			padding: .75rem;
+			vertical-align: top;
+			border-top: 1px solid #222 !important;
+		}
+		th {
+			padding: 20px;
+			color: #00ad5f;
+			background-color: #393939;
+		}
+
+		tr{
+			color: gray;
+			text-decoration: none;
+		}
+
+		tr:hover {
+			color: white;
+		}
+		a {
+			color: lime;
+			text-decoration: none;
+		}
+		.dropdown-menu{
+			background-color: #222;
+			border: 0.5px solid lime;
+		}
+		.dropdown-item{
+			color: gray;
+		}
+	</style>
+	
   </head>
 
 
 <body>
 	<br>
-	<img src="{{ url_for('static', filename='favicon/hackathon_logo_favicon.png') }}" alt="Hack Lists Logo" width=50 height=50>
-	<h1>Hack Lists</h1>
-
-{% block body %}{% endblock %}
-
+	<div align=center>
+		<img src="{{ url_for('static', filename='favicon/hackathon_logo_favicon.png') }}" alt="Hack Lists Logo" width=50 height=50>
+		<h1>Hack Lists</h1>
+	</div>
+	<div class="container-fluid">
+	{% block body %}
+	{% endblock %}
+	</div>
 	<br>
 	<br>
+	 <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 </body>
 </html>
