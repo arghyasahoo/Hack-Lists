@@ -2,6 +2,7 @@ import requests,re
 from datetime import datetime
 from bs4 import BeautifulSoup
 
+date=datetime.now()
 
 url="https://www.hackerearth.com/challenges/hackathon/"
 page_data=requests.get(url)
@@ -26,50 +27,31 @@ for i in all_ongoing_contest:
     # print(contest_organizer_name)
     hackathon_dets.append([contest_name,con_link,contest_organizer_name,times,start_end])
 
-with open("hackathonList1.txt","w") as wr:
+with open("./tmp/upcoming/hackerEarth.txt","w") as wr:
     for hack in hackathon_dets:
         hack_org_name=re.sub('[\W_\n<>]+','',str(hack[2]))
         start_time=datetime.strptime(str(hack[3][0]),"%b %d, %Y, %I:%M %p")
         end_time=datetime.strptime(str(hack[3][len(hack[3])-1]),"%b %d, %Y, %I:%M %p")
         time='starts_on: '+str(start_time)+' :: '+' ends_on: '+str(end_time )
-        # print(str(hack[3]).split(','))
-        # print(datetime.strptime(str(hack[3][0]),"%b %d, %Y, %I:%M %p"))
-        data = hack[0][0]+' :: '+hack_org_name+' :: '+time+' :: '+str(hack[1])
-        wr.write(data+'\n')
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-# contest name---
-# contest organizer----
-# contest start and ends date----xxxxxxxx
-# contest link---
-# technologies used by contest
+        if date < start_time:
+            data = hack[0][0]+' :: '+hack_org_name+' :: '+time+' :: '+'Upcoming'+' :: '+str(hack[1])
+            wr.write(data+'\n')
+wr.close()
+with open("./tmp/ongoing/hackerEarth.txt","w") as wr1:
+    for hack in hackathon_dets:
+        hack_org_name=re.sub('[\W_\n<>]+','',str(hack[2]))
+        start_time=datetime.strptime(str(hack[3][0]),"%b %d, %Y, %I:%M %p")
+        end_time=datetime.strptime(str(hack[3][len(hack[3])-1]),"%b %d, %Y, %I:%M %p")
+        time='starts_on: '+str(start_time)+' :: '+' ends_on: '+str(end_time )
+        if date >= start_time:
+            # print(str(hack[3]).split(','))
+            # print(datetime.strptime(str(hack[3][0]),"%b %d, %Y, %I:%M %p"))
+            data = hack[0][0]+' :: '+hack_org_name+' :: '+time+' :: '+'Ongoing'+' :: '+str(hack[1])
+            wr1.write(data+'\n')
+wr1.close()
 
 
-# contest_link=all_ongoing_contest[0].find('a',class_="challenge-card-wrapper challenge-card-link").get('href')
-# hackathon_data=BeautifulSoup(requests.get(contest_link).content,'html.parser')
-# steps_hackathon=hackathon_data.find('div',class_="event-details-container").findChildren('div',recursive=False)
-# start_end=re.findall(">([a-z]{3,6}\son:)<",str(steps_hackathon))
-# print(start_end)
-# all_links=[]
-# all_links.append(contest_link.get('href'))
-# print(all_links)
-# contest_name_str=all_ongoing_contest[0].find(class_="challenge-name ellipsis dark").find("span")
-# contest_name=re.findall('>([a-zA-Z]\S*.+)<',str(contest_name_str))
-# print(contest_name,end='\n')
-# contest_link=all_ongoing_contest[0].find('a',class_="challenge-card-wrapper challenge-card-link").get('href')
-# starting_date=hackathon_data.find(class_="start-time-block").get_text()
-# ending_date=hackathon_data.find(class_="end-time-block").get_text()
-# print(times)
-# print(result_data.prettify())
+
+
+
+
