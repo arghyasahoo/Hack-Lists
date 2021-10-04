@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans+Lato:wght@400&family=PT+Sans&display=swap');
+
+h1 {
+	text-align: center;
+	font-family: 'PT Sans', sans-serif;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	margin-left: 20px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid #00ad5f;
+	border-collapse: collapse;
+	background-color: #222;
+}
+
+th {
+	padding: 20px;
+	color: #00ad5f;
+	background-color: #393939;
+}
+
+tr, a {
+	color: gray;
+	text-decoration: none;
+}
+
+tr:hover {
+	color: white;
+}
+
+td {
+	padding: 20px;
+}
+
+a:hover {
+	color: lime;
+	text-decoration: none;
+}
+
+body {
+	color: white;
+	background-color: #222 !important;
+	font-family: 'Josefin Sans', sans-serif;
+}
