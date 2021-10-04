@@ -1,0 +1,8 @@
+Route Mobile RAPID Hackathon :: RouteMobileLtd :: starts_on: 2021-08-27 12:30:00 ::  ends_on: 2021-11-14 18:25:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/routemobile-rapid-hackathon/
+The World After Covid-19 :: KPMGMALTA :: starts_on: 2021-09-29 00:00:00 ::  ends_on: 2021-11-28 23:00:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/kpmgs-fullstack-azure-hiring-challenge/
+Integrated Digital Label Hackathon :: Bayer :: starts_on: 2021-09-15 18:30:00 ::  ends_on: 2021-11-09 10:30:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/bayer-hackathon-2/
+SAP Semicolon; Hackathon 5.0 :: SAPLabs :: starts_on: 2021-09-23 04:30:00 ::  ends_on: 2021-11-28 18:25:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/sap-semi-colon-hackathon-50/
+I3 – Innovate – Ideate – Implement :: BharatBillPay :: starts_on: 2021-09-27 18:30:00 ::  ends_on: 2021-11-21 18:29:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/i3-innovate-ideate-implement/
+FLIP Fest :: DapperLabs :: starts_on: 2021-09-15 04:00:00 ::  ends_on: 2021-10-31 03:59:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/flip-fest/
+Ecothon :: HackerEarth :: starts_on: 2021-09-17 16:00:00 ::  ends_on: 2021-11-01 16:00:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/ecothon/
+Enter the Travel-Verse ::  :: starts_on: 2021-10-01 04:00:00 ::  ends_on: 2021-11-11 04:59:00 :: Ongoing :: https://www.hackerearth.com/challenges/hackathon/enter-the-travel-verse/
